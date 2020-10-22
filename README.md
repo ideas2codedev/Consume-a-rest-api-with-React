@@ -10,6 +10,9 @@ A single-page application (SPA) is a web application or website that interacts w
 ## Demo
 [https://demos.ideas2code.io/Consume-a-rest-api-with-React/](https://demos.ideas2code.io/Consume-a-rest-api-with-React/)
 
+## Sponsor
+
+[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/10/bar.fw_.png)](http://adf.ly/23757721/www.ideas2code.io)
 ## Requirements
 -   Node >= 8.10
 -   npm >= 5.6
