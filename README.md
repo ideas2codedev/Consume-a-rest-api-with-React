@@ -1,11 +1,7 @@
 # Consume a REST-API with React
 
-![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/portada-3.jpg)
+![enter image description here](https://user-images.githubusercontent.com/9513390/129836373-1436418d-beaa-4e19-9134-b8d596e7317a.jpg)
 A single-page application (SPA) is a web application or website that interacts with the web browser by dynamically rewriting the current web page with new data from the web server, instead of the default method of the browser loading entire new pages.
-
-## Sponsor
-
-[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/10/bar.fw_.png)](http://adf.ly/23757721/www.ideas2code.io)
 
 ## Objetive
  - Consume a REST-API  
